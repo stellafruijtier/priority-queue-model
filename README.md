@@ -23,3 +23,12 @@ This model helps answer:
 - Varies the FastPass allocation fraction `f` from 0 to 0.95
 - Tracks average residence (waiting + service) times for each group
 - Repeats the analysis under: Low-load conditions where `𝜆` = 0.50, High-load conditions where `𝜆` = 0.95
+
+
+## ⚙️ Requirements
+
+- Python 3.7 or higher
+- No external libraries required (uses only Python standard lobrary and `matplotlib` if plotting is enabled)
+
+
+## 🚀 How to run
